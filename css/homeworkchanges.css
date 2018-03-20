@@ -1,6 +1,18 @@
 h1 {
-  color: blue;
+  color: blue;/*icons change color to blue*/
 }
 body {
-  color: #303030;
+  color: #303030; /*body text darker grey*/
+}
+.container {
+  background-color: #A0A0A0;/*change page background*/
+  padding-bottom: 300px;/*extend background color down page*/
+}
+.jumbotron {
+  margin-top: 100px;/*move jumbotron down from top*/
+  margin-bottom: 50px; /*space between jumbo and steps*/
+  padding: 30px 50px 30px 50px; /*less white space around text*/
+}
+.panel-heading {
+  font-size: 15px; /*bigger step font*/
 }
